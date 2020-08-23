@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Contacts</string>
+
+    <!--    permissions  -->
+    <string name="read_contacts_permissions_explanation">Permission to read contacts is needed to find contacts. </string>
+    <string name="write_contacts_permissions_explanation">Permission to write contacts is needed to edit contacts. </string>
+    <string name="external_storage_permissions_explanation">Permission external storage is needed to edit contacts. </string>
+    <string name="call_contacts_permissions_explanation">Permission call contact is needed for calls. </string>
+    <string name="sms_contacts_permissions_explanation">Permission sms contact is needed for sms. </string>
+    <string name="manual_permission_grant_instruction">Go to settings -> Permissions to grant access to the required permissions.</string>
+    <string name="permission_denied">Permission denied.</string>
+    <string name="enable_permission">Enable Permission.</string>
+    <string name="grant">Grant</string>
+    <string name="settings">Settings</string>
+
+    <!--    dialogs  -->
+    <string name="add_contact_dialog_title_text">Add new contact</string>
+    <string name="edit_contact_name_dialog_title_text">Edit contact name</string>
+    <string name="add_contact_phone_number_dialog_title_text">Add contact phone number</string>
+    <string name="edit_phone_number_dialog_title_text">Edit contact phone number</string>
+    <string name="delete_phone_number_dialog_title_text">Delete phone number</string>
+    <string name="add_contact_email_dialog_title_text">Add contact email</string>
+    <string name="edit_contact_email_dialog_title_text">Edit contact email</string>
+    <string name="delete_contact_email_dialog_title_text">Delete contact email</string>
+    <string name="fill_error_text">Please fill out this field</string>
+    <string name="delete_dialog_label_text">Are you sure you want to delete this item?</string>
+    <string name="dialog_edit_text_type_here_text">Type here</string>
+    <string name="dialog_add_contact_contact_name_text">Contact name</string>
+    <string name="dialog_add_contact_contact_phone_number_text">Phone number</string>
+    <string name="dialog_add_contact_contact_email_text">Email</string>
+    <string name="delete">DELETE</string>
+    <string name="cancel">CANCEL</string>
+    <string name="ok">OK</string>
+
+    <!--   menu  -->
+    <string name="action_write_email_text">WRITE EMAIL</string>
+    <string name="action_edit_text">EDIT</string>
+    <string name="action_sms_text">SMS</string>
+    <string name="action_call_text">Call</string>
+
+    <string name="no_contacts_found_text">No contacts found</string>
+
+</resources>
